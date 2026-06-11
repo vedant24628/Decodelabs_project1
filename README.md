@@ -45,8 +45,11 @@ The dataset contains transaction/order-related information including:
 ## Project Structure
 Data-Analytics-Project-1/
 ├── Dataset for Data Analytics.xlsx
+
 ├── Cleaned_Dataset.xlsx
+
 ├── project1.py
+
 └── README.md
 
 ## Python Libraries Required
